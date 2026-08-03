@@ -1,0 +1,6 @@
+{
+  "name": "التطبيق الذكي الشامل",
+  "description": "تطبيق ذكي متكامل يشمل قياس الحرارة، تحديد القبلة، عداد المسافات، خريطة الأرض، المنبه الذكي، الساعة، المسبحة، والخزنة المشفرة.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
